@@ -1,0 +1,22 @@
+# Task: Paginate Lessons & Add Assessments
+
+- [ ] **Infrastructure: PageView & State**
+    - [ ] Refactor `LessonNoteScreen` to use `PageView`.
+    - [ ] Create `_buildAssessmentPage` component.
+    - [ ] Implement pagination controls (Continue / Back).
+- [ ] **UI Refinement**
+    - [ ] Update `_buildSectionHeader` for large-screen presence.
+    - [ ] Add Page Progress Indicator.
+- [ ] **Content Refactoring (Batch 1: German A1-A2)**
+    - [ ] Refactor German A1 (Weeks 1-5).
+    - [ ] Refactor German A2 (Weeks 6-10).
+- [ ] **Content Refactoring (Batch 2: German B1-C2)**
+    - [ ] Refactor German B1-B2.
+    - [ ] Refactor German C1-C2.
+- [ ] **Content Refactoring (Batch 3: Chinese A1-C2)**
+    - [ ] Refactor Chinese A1-A2.
+    - [ ] Refactor Chinese B1-B2.
+    - [ ] Refactor Chinese C1-C2.
+- [ ] **Verification**
+    - [ ] Ensure all 60 lessons are paginated.
+    - [ ] Verify "Ask AI" functionality.
